@@ -1,0 +1,64 @@
+body{
+    font-family: cursive;
+    background-color:#7CFC00;
+    }
+    img{
+        width: 190px;
+    }
+    h1,h3{
+        text-align: center;
+    }
+
+    nav a{
+        background-color: rgb(13, 16, 203);
+        color: white;
+        text-align: center;
+        padding: 5px;
+        border-radius: 5px;
+        margin:5%;
+    }
+    p{
+        background-color: 	#baff74;
+        padding: 5px;
+        border-radius: 10px;
+        margin: 5px;
+        text-align: justify;
+    }
+    
+    .pidstavcy{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+    }
+    .lystivky{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+    }
+    .cancelyariya{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+    }
+     .Cartnna{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+    }
+    .igrahskN{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+    }
+    .MalyHky{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+    }
+    .Cat{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+    }
+    .banderaa{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+    }
+    .bandera{
+        margin-left: 40%;
+        border: 5px dotted #517c25;
+        width:200px;
+    }
